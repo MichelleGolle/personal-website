@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue
+}
+
+h1,h2 {
+  color: purple
+}
+
+p {
+  color: gray
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#me {
+  width: 200px
+}
+
+#dogs {
+  width: 200px
+}
+
+#fun {
+  margin-top: 100px
+}
+
+#me {
+  float: left
+}
+
+#fun {
+  float: left
+}
+
+#dogs {
+  float: left
+}
+
+#contact {
+  float: left
+}
+
+#contact {
+  margin-left: 550px
+}
